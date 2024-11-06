@@ -1,0 +1,3 @@
+C:/Users/New/OneDrive/Desktop/A1_T4_S1_20230275_20230480_20230431/cmake-build-debug/CMakeFiles/Task_4_vol_machine.dir
+C:/Users/New/OneDrive/Desktop/A1_T4_S1_20230275_20230480_20230431/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/New/OneDrive/Desktop/A1_T4_S1_20230275_20230480_20230431/cmake-build-debug/CMakeFiles/rebuild_cache.dir
